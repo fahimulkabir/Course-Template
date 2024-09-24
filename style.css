@@ -109,7 +109,8 @@ header {
 }
 
 .hero .hero-box {
-  height: 100vh;
+  height: 100%;
+  padding: 9rem 0 5rem 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
